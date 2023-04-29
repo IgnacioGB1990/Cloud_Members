@@ -13,6 +13,10 @@
 * Nacho
 
 
+### Important git concetps
+
+Each team member will initially clone develop branch and work on features. The first exercise will walk you through in how to initially set up your environment.
+
 ### First Exercise:
 
 1. Create a folder in your computer : Cloud_Project
