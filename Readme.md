@@ -1,10 +1,22 @@
-Project for Cloud members
+# Cloud Project
 
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETUE46G7gv41P7dFD5i4VQ_TAgV_FIcS4Kg&usqp=CAU">
 
 
 
 ## Basic Commands
+## Members:
+
+* Silvia
+* Ricardo
+* Alberto
+* Tony
+* Nacho
+
+
+
+
+### Basic Git Commands
 
 git status
 
@@ -17,9 +29,10 @@ git push
 git pull
 
 
-### Branches
+#### Branches
 
 Creates and moves to branch:
+
 git checkout -b "Name_of_new_branch"
 
 Move to existing branch:
