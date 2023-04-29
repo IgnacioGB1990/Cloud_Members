@@ -1,4 +1,14 @@
-Project for Cloud members
+# Cloud Project
+
+## Members:
+
+Silvia
+Ricardo
+Alberto
+Tony
+Nacho
+
+
 
 
 ## Basic Commands
