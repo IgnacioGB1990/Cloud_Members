@@ -1,6 +1,6 @@
 # Cloud Project
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETUE46G7gv41P7dFD5i4VQ_TAgV_FIcS4Kg&usqp=CAU" width="600" height="600">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETUE46G7gv41P7dFD5i4VQ_TAgV_FIcS4Kg&usqp=CAU" width="400" height="600">
 
 
 
