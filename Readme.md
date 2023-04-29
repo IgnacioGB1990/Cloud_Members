@@ -28,7 +28,7 @@ git clone -b develop https://github.com/IgnacioGB1990/Cloud_Members.git
 
 3. Create your own branch and move to it:
 ~~~
-git checkout -b "members_name"
+git checkout -b "name"
 ~~~
 
 
@@ -42,7 +42,7 @@ git commit -m "my_name added github url"
 ~~~
 
 ~~~
-git push --set-upstream origin "members_name"
+git push --set-upstream origin "name"
 ~~~
 
 Important we will work on develop
