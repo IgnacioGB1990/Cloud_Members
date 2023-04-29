@@ -29,6 +29,7 @@ git pull
 #### Branches
 
 Creates and moves to branch:
+
 git checkout -b "Name_of_new_branch"
 
 Move to existing branch:
