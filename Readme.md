@@ -19,10 +19,10 @@
 2. Open terminal and go inside folder Cloud_Project
 3. git clone https://github.com/IgnacioGB1990/Cloud_Members.git
 4. Create your own branch and move to it: git checkout -b "members_name"
-5. Add readme.md in folder **members** with your github url
+5. Create folder with your name and add readme.md with your github url (see my example)
 6. git add .
 7. git commit -m "my_name added github url"
-8. git push
+8. git push --set-upstream origin "members_name"  (ojo es el nombre de tu rama creada)
 
 
 
