@@ -41,7 +41,7 @@ git commit -m "my_name added github url"
 git push --set-upstream origin "members_name"
 ~~~
 
-
+Important we will work on develop
 
 
 
@@ -86,4 +86,6 @@ Move to existing branch:
 ~~~
 git checkout "name_of_existing_branch"
 ~~~
+
+
 
