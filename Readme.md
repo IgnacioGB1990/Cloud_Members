@@ -19,7 +19,7 @@
 2. Open terminal and go inside folder Cloud_Project
 
 ~~~
-git clone https://github.com/IgnacioGB1990/Cloud_Members.git
+git clone -b develop https://github.com/IgnacioGB1990/Cloud_Members.git
 ~~~
 
 3. Create your own branch and move to it:
