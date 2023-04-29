@@ -4,7 +4,6 @@
 
 
 
-## Basic Commands
 ## Members:
 
 * Silvia
@@ -12,8 +11,6 @@
 * Alberto
 * Tony
 * Nacho
-
-
 
 
 ### Basic Git Commands
