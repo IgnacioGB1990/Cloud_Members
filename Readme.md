@@ -13,7 +13,7 @@
 
 
 
-## Basic Commands
+### Basic Git Commands
 
 git status
 
@@ -26,7 +26,7 @@ git push
 git pull
 
 
-### Branches
+#### Branches
 
 Creates and moves to branch:
 git checkout -b "Name_of_new_branch"
