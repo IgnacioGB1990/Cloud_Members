@@ -2,11 +2,11 @@
 
 ## Members:
 
-Silvia
-Ricardo
-Alberto
-Tony
-Nacho
+* Silvia
+* Ricardo
+* Alberto
+* Tony
+* Nacho
 
 
 
