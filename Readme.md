@@ -24,7 +24,10 @@
 7. git commit -m "my_name added github url"
 8. git push --set-upstream origin "members_name"  (ojo es el nombre de tu rama creada)
 
+~~~
 
+prueba
+~~~
 
 
 
