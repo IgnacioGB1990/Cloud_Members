@@ -44,9 +44,6 @@ git commit -m "my_name added github url"
 git push --set-upstream origin "name"
 ~~~
 
-Important we will work on develop
-
-
 ### Basic git workflow
 
 <img src="https://static.packt-cdn.com/products/9781782168454/graphics/8454OS_01_4.jpg" width="600" height="400">
