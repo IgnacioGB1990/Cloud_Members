@@ -68,6 +68,11 @@ Add commit :
 git commit -m "First Commit"
 ~~~
 
+Add file to staging area and commit :
+~~~
+git commit -am "Two in one command"
+~~~
+
 Push changes to Github
 ~~~
 git push
