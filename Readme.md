@@ -95,5 +95,9 @@ Move to existing branch:
 git checkout "name_of_existing_branch"
 ~~~
 
+See existing branches:
+~~~
+git branch
+~~~
 
 
