@@ -11,7 +11,17 @@
 * Tony
 * Nacho
 
-### Important git concetps
+### Basic Git Workflow
+
+Each member will work on their branch and pull request and merge to **develop** if no conflicts arise.
+
+If conflicts arise speak to manager.
+
+> **Warning**
+> La rama **main** no se toca.
+
+
+### Important git concepts
 
 Each team member will initially clone develop branch and work on features. The first exercise will walk you through in how to initially set up your environment.
 
