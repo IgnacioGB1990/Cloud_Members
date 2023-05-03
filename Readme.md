@@ -8,7 +8,7 @@ All members will work on their own branch and push their changes. If no confilct
 If conflicts arise speak with manager.
 
 > **Warning**
-> La rama **main** nos se toca
+> LA RAMA **MAIN** NO SE TOCA
 
 ## Members:
 
