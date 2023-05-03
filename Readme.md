@@ -3,14 +3,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETUE46G7gv41P7dFD5i4VQ_TAgV_FIcS4Kg&usqp=CAU" width="400" height="400">
 
 
-## Members:
-
-* Silvia
-* Ricardo
-* Alberto
-* Tony
-* Nacho
-
 ### Basic Git Workflow
 
 Each member will work on their branch and pull request and merge to **develop** if no conflicts arise.
@@ -109,4 +101,13 @@ See existing branches:
 git branch
 ~~~
 
+
+
+## Members:
+
+* Silvia
+* Ricardo
+* Alberto
+* Tony
+* Nacho
 
