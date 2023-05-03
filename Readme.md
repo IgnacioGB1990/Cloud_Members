@@ -1,6 +1,6 @@
 # Cloud Project
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETUE46G7gv41P7dFD5i4VQ_TAgV_FIcS4Kg&usqp=CAU" width="800" height="400">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETUE46G7gv41P7dFD5i4VQ_TAgV_FIcS4Kg&usqp=CAU" width="400" height="400">
 
 
 
@@ -12,6 +12,9 @@
 * Tony
 * Nacho
 
+### Important git concetps
+
+Each team member will initially clone develop branch and work on features. The first exercise will walk you through in how to initially set up your environment.
 
 ### First Exercise:
 
@@ -19,12 +22,12 @@
 2. Open terminal and go inside folder Cloud_Project
 
 ~~~
-git clone https://github.com/IgnacioGB1990/Cloud_Members.git
+git clone -b develop https://github.com/IgnacioGB1990/Cloud_Members.git
 ~~~
 
 3. Create your own branch and move to it:
 ~~~
-git checkout -b "members_name"
+git checkout -b "my_name"
 ~~~
 
 
@@ -38,12 +41,12 @@ git commit -m "my_name added github url"
 ~~~
 
 ~~~
-git push --set-upstream origin "members_name"
+git push --set-upstream origin "my_name"
 ~~~
 
+### Basic git workflow
 
-
-
+<img src="https://static.packt-cdn.com/products/9781782168454/graphics/8454OS_01_4.jpg" width="600" height="400">
 
 ### Basic Git Commands
 
@@ -60,6 +63,11 @@ git add .
 Add commit :
 ~~~
 git commit -m "First Commit"
+~~~
+
+Add file to staging area and commit :
+~~~
+git commit -am "Two in one command"
 ~~~
 
 Push changes to Github
@@ -86,4 +94,10 @@ Move to existing branch:
 ~~~
 git checkout "name_of_existing_branch"
 ~~~
+
+See existing branches:
+~~~
+git branch
+~~~
+
 
