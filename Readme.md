@@ -6,7 +6,8 @@
 All members will contribute with their own branch and will push changes to devlop. If no confilcts exist each member will pull request and merge to develop.
 If conflicts arise speak with manager.
 
-**LA RAMA MAIN NO SE TOCA**
+> **Warning**
+> La rama **main** nos se toca
 
 ## Members:
 
