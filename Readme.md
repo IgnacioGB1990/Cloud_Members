@@ -2,7 +2,11 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETUE46G7gv41P7dFD5i4VQ_TAgV_FIcS4Kg&usqp=CAU" width="400" height="400">
 
-Develop
+## Basic Team Workflow:
+All members will contribute with their own branch and will push changes to devlop. If no confilcts exist each member will pull request and merge to develop.
+If conflicts arise speak with manager.
+
+**LA RAMA MAIN NO SE TOCA**
 
 ## Members:
 
